@@ -6,7 +6,7 @@ São disponibilizados dois notebooks:
 - tensorflow_temperatura: que resolve o problema da condução de calor bidimensional
 - tensorflow_cavidade: que resolve o problema da cavidade com tampa deslizante
 
-São disponibilizadas três redes neurais já treinadas:
+São disponibilizadas quatro redes neurais já treinadas:
 
 - Calor3Camadas.h5
   Input: [alpha,x_0,l_0,y_0,l_y,tempo]
