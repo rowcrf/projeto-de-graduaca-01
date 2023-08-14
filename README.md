@@ -1,6 +1,6 @@
 # projeto-de-graduaca-01
 
-Código elaborado por Rogério Werneck Costa Rodrigues Filho e utilizado no Projeto de Graduação 1 para conclusão de curso de Engenharia Mecânica na Universidade de Brasília. 
+Código elaborado por Rogério Werneck Costa Rodrigues Filho e utilizado no Projeto de Graduação para conclusão de curso de Engenharia Mecânica na Universidade de Brasília. 
 
 São disponibilizados dois notebooks:
 - tensorflow_temperatura.ipynb: que resolve o problema da condução de calor bidimensional
